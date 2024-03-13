@@ -1,1 +1,2 @@
-# First fullstacck proj
+# First fullstack proj
+focusing basically on backend
